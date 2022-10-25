@@ -1,6 +1,6 @@
 # Wordpress-MvContactButton
 
-Adds some javascript functionality. Slide-Opens a contact form when a button is clicked.
+Adds some javascript functionality to your wordpress. Makes it possible, that a button opens a contact form in a slide animation, when the button is clicked.
 
 * The form, or whatever you initially like to hide, has to be placed in an element with the css classname ```mvcontactbuttonform```.
 * The button, or whatever element you like to show the hidden element with, has to be equipped with ```class="mvcontactbutton"```. Of course you can add as many other classes to the element, as you like.
